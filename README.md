@@ -1,8 +1,7 @@
 
 
 
-- 🌱 I’m currently working on improving my machine learing skills
-- 📫 You can reach me at discord: `fwiz#3435`
+- 📫 You can reach me on discord: `@.fwiz`
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
