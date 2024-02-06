@@ -1,6 +1,6 @@
 
 
-
+- Deep learning enthusiast 
 - 📫 You can reach me on discord: `@.fwiz`
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
